@@ -2,11 +2,13 @@
   "stats": {
     "current_streak": 0,
     "longest_streak": 0,
-    "total_responses": 7,
-    "last_updated": "2026-01-19T23:00:02.170Z"
+    "total_responses": 13,
+    "last_updated": "2026-01-26T23:00:02.802Z"
   },
   "activity": {
     "2026-01-18": 1,
-    "2026-01-19": 6
+    "2026-01-19": 6,
+    "2026-01-20": 1,
+    "2026-01-26": 5
   }
 }
